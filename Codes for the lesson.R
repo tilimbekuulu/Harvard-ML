@@ -7,6 +7,8 @@ library(dslabs)
 library(dplyr)
 library(lubridate)
 
+# Comprehension Check: Practice with Machine Learning, Part 1
+
 
 
 ## Downloading the data and making adjustments
