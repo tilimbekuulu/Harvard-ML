@@ -1,0 +1,30 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Installing Packages
+
+```{r}
+library(tidyverse)
+library(caret)
+library(dslabs)
+library(dplyr)
+library(lubridate)
+
+```
+
+## Comprehension Check: Practice with Machine Learning, Part 1
+
+### The code below sets up the dataset to analyze in the following exercises:
+
+```{r}
+
+
+
+
+
+
+
+```
+
